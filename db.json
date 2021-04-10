@@ -14,7 +14,7 @@
   ],
   "estorno-baixa-parcial": [
     {
-      "history": "Estorno da Baixa - Operação 2-Estorno da baica do título",
+      "history": "Estorno da Baixa - Operação 2-Estorno da Baixa PARCIAL do título",
       "creditUnits": [],
       "operation": 2,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
@@ -25,21 +25,17 @@
       "typeOperation": 2
     }
   ],
-  "divergencia": [
+  "estorno-baixa-total": [
     {
-      "history": "Divergência Comercial efetivada TOTVS Antecipa - Operação 4-Divergência comercial",
+      "history": "Estorno da Baixa - Operação 2-Estorno da Baixa TOTAL do título",
       "creditUnits": [],
-      "operation": 4,
+      "operation": 2,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177943702",
+      "erpId": "01000177857501",
       "date": "20200728",
-      "localAmount": 234.9,
-      "feeAmount": 1.64,
-      "feeAmountOrigin": 9.99,
-      "typeOperation": 1,
-      "bankCode": "1",
-      "agencyCode ": "4362-1",
-      "accountCode": "5237-X"
+      "localAmount": 942.33,
+      "feeAmount": 51.64,
+      "typeOperation": 2
     }
   ],
   "conciliacao": [
