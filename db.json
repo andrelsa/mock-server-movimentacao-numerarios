@@ -5,9 +5,9 @@
       "creditUnits": [],
       "operation": 0,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177848301",
+      "erpId": "01000177860301",
       "date": "20200728",
-      "localAmount": 486.5,
+      "localAmount": 1194.26,
       "feeAmount": 51.64,
       "typeOperation": 0
     }
@@ -18,9 +18,9 @@
       "creditUnits": [],
       "operation": 20,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177848301",
+      "erpId": "01000177860301",
       "date": "20200728",
-      "localAmount": 486.5,
+      "localAmount": 1142.62,
       "feeAmount": 51.64,
       "typeOperation": 2,
       "bankCode": "1",
@@ -28,7 +28,7 @@
       "accountCode": "5237-X"
     }
   ],
-  "baixa": [
+  "baixa-parcial": [
     {
       "history": "Baixa efetivada TOTVS Antecipa - Operação 1-Baixa do título",
       "creditUnits": [],
