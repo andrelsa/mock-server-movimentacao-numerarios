@@ -30,7 +30,7 @@
   ],
   "baixa-parcial": [
     {
-      "history": "Baixa efetivada TOTVS Antecipa - Operação 1-Baixa do título",
+      "history": "Operação 1-Baixa do título",
       "creditUnits": [],
       "operation": 1,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
@@ -43,7 +43,7 @@
   ],
   "estorno-baixa-parcial": [
     {
-      "history": "Estorno da Baixa - Operação 2-Estorno da Baixa PARCIAL do título - IDANTECIPA 01000177848303",
+      "history": "Operação 2-Estorno da Baixa PARCIAL",
       "creditUnits": [],
       "operation": 2,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
@@ -56,7 +56,7 @@
   ],
   "estorno-baixa-total": [
     {
-      "history": "Estorno da Baixa - Operação 2-Estorno da Baixa TOTAL do título",
+      "history": "Operação 2-Estorno da Baixa TOTAL",
       "creditUnits": [],
       "operation": 2,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
