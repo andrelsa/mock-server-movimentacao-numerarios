@@ -1,15 +1,15 @@
 {
-  "antecipacao": [
+  "estorno-baixa-parcial-titulo-2": [
     {
-      "history": "Antecipação - Operação 0-Antecipação",
+      "history": "Operação 2-Estorno da Baixa PARCIAL",
       "creditUnits": [],
-      "operation": 0,
+      "operation": 2,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
       "erpId": "01000197952301",
       "date": "20200728",
-      "localAmount": 669.90,
+      "localAmount": 40.53,
       "feeAmount": 51.64,
-      "typeOperation": 0
+      "typeOperation": 2
     }
   ],
   "conciliacao": [
