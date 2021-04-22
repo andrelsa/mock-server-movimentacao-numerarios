@@ -41,6 +41,19 @@
       "typeOperation": 0
     }
   ],
+    "baixa-parcial-2": [
+    {
+      "history": "Operação 2-Estorno da Baixa TOTAL",
+      "creditUnits": [],
+      "operation": 1,
+      "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+      "erpId": "01000197952301",
+      "date": "20200728",
+      "localAmount": 40.00,
+      "feeAmount": 51.64,
+      "typeOperation": 2
+    }
+  ],
   "estorno-baixa-parcial": [
     {
       "history": "Operação 2-Estorno da Baixa PARCIAL",
@@ -52,19 +65,6 @@
       "localAmount": 120.5,
       "feeAmount": 51.64,
       "typeOperation": 0
-    }
-  ],
-  "baixa-parcial-titulo-3": [
-    {
-      "history": "Operação 2-Estorno da Baixa TOTAL",
-      "creditUnits": [],
-      "operation": 1,
-      "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000197951501",
-      "date": "20200728",
-      "localAmount": 100.00,
-      "feeAmount": 51.64,
-      "typeOperation": 2
     }
   ]
 }
