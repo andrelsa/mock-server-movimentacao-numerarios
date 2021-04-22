@@ -36,7 +36,7 @@
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
       "erpId": "01000197952301",
       "date": "20200728",
-      "localAmount": 120.5,
+      "localAmount": 120.55,
       "feeAmount": 51.64,
       "typeOperation": 0
     }
@@ -49,7 +49,7 @@
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
       "erpId": "01000197952301",
       "date": "20200728",
-      "localAmount": 40.0,
+      "localAmount": 40.53,
       "feeAmount": 51.64,
       "typeOperation": 2
     }
