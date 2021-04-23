@@ -1,16 +1,15 @@
 {
-  "estorno-baixa-parcial-titulo-1": [
+  "antecipacao": [
     {
-      "history": "Operação 2-Estorno da Baixa PARCIAL",
+      "history": "Antecipação - Operação 0-Antecipação",
       "creditUnits": [],
-      "operation": 2,
+      "operation": 0,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000197952301",
+      "erpId": "01000197951801",
       "date": "20200728",
-      "localAmount": 120.55,
+      "localAmount": 674.59,
       "feeAmount": 51.64,
       "typeOperation": 0
-
     }
   ],
   "conciliacao": [
@@ -19,9 +18,9 @@
       "creditUnits": [],
       "operation": 20,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000197952301",
+      "erpId": "01000197951801",
       "date": "20200728",
-      "localAmount": 618.26,
+      "localAmount": 622.95,
       "feeAmount": 51.64,
       "typeOperation": 2,
       "bankCode": "1",
@@ -55,17 +54,17 @@
       "typeOperation": 2
     }
   ],
-  "baixa-parcial-3": [
+  "estorno-baixa-parcial": [
     {
-      "history": "Operação 2-Estorno da Baixa TOTAL",
+      "history": "Operação 2-Estorno da Baixa PARCIAL",
       "creditUnits": [],
-      "operation": 1,
+      "operation": 2,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
       "erpId": "01000197952301",
       "date": "20200728",
-      "localAmount": 75.69,
+      "localAmount": 120.5,
       "feeAmount": 51.64,
-      "typeOperation": 2
+      "typeOperation": 0
     }
   ]
 }
