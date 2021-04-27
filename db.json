@@ -1,13 +1,13 @@
 {
   "antecipacao": [
     {
-      "history": "Antecipação - Operação 0-Antecipação",
+      "history": "1979545|Implantação de antecipação",
       "creditUnits": [],
       "operation": 0,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177851001",
+      "erpId": "01000197954501",
       "date": "20200728",
-      "localAmount": 1696.60,
+      "localAmount": 679.32,
       "feeAmount": 51.64,
       "typeOperation": 0
     }
@@ -18,9 +18,9 @@
       "creditUnits": [],
       "operation": 20,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177851001",
+      "erpId": "01000197954501",
       "date": "20200728",
-      "localAmount": 1644.96,
+      "localAmount": 627.68,
       "feeAmount": 51.64,
       "typeOperation": 2,
       "bankCode": "1",
@@ -34,9 +34,9 @@
       "creditUnits": [],
       "operation": 1,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177851001",
+      "erpId": "01000197954501",
       "date": "20200728",
-      "localAmount": 250.63,
+      "localAmount": 150.63,
       "feeAmount": 51.64,
       "typeOperation": 0
     }
@@ -47,9 +47,9 @@
       "creditUnits": [],
       "operation": 1,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177851001",
+      "erpId": "01000197954501",
       "date": "20200728",
-      "localAmount": 333.99,
+      "localAmount": 66.99,
       "feeAmount": 51.64,
       "typeOperation": 2
     }
@@ -60,9 +60,9 @@
       "creditUnits": [],
       "operation": 2,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177851001",
+      "erpId": "01000197954501",
       "date": "20200728",
-      "localAmount": 250.63,
+      "localAmount": 150.63,
       "feeAmount": 51.64,
       "typeOperation": 0
     }
