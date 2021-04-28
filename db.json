@@ -1,26 +1,26 @@
 {
   "antecipacao": [
     {
-      "history": "1979545|Implantação de antecipação",
+      "history": "1777077|Implantação de antecipação",
       "creditUnits": [],
       "operation": 0,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177700701",
+      "erpId": "01000177707701",
       "date": "20200728",
-      "localAmount": 89.64,
+      "localAmount": 1126.4,
       "feeAmount": 51.60,
       "typeOperation": 0
     }
   ],
   "conciliacao": [
     {
-      "history": "182098|Implantação de antecipação",
+      "history": "1777077|Implantação de antecipação",
       "creditUnits": [],
       "operation": 20,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177700701",
+      "erpId": "01000177707701",
       "date": "20200728",
-      "localAmount": 38.04,
+      "localAmount": 1074.80,
       "feeAmount": 51.60,
       "typeOperation": 2,
       "bankCode": "1",
@@ -28,15 +28,15 @@
       "accountCode": "5237-X"
     }
   ],
-  "baixa-parcial": [
+  "baixa-parcial-1": [
     {
       "history": "Operação 1-Baixa do título",
       "creditUnits": [],
       "operation": 1,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177700701",
+      "erpId": "01000177707701",
       "date": "20200728",
-      "localAmount": 15.63,
+      "localAmount": 515.63,
       "feeAmount": 51.60,
       "typeOperation": 0
     }
@@ -47,22 +47,22 @@
       "creditUnits": [],
       "operation": 1,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177700701",
+      "erpId": "01000177707701",
       "date": "20200728",
-      "localAmount": 6.99,
+      "localAmount": 356.99,
       "feeAmount": 51.60,
       "typeOperation": 2
     }
   ],
-  "estorno-baixa-parcial": [
+  "estorno-baixa-parcial-1": [
     {
       "history": "Operação 2-Estorno da Baixa PARCIAL",
       "creditUnits": [],
       "operation": 2,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177700701",
+      "erpId": "01000177707701",
       "date": "20200728",
-      "localAmount": 15.63,
+      "localAmount": 515.63,
       "feeAmount": 51.60,
       "typeOperation": 0
     }
