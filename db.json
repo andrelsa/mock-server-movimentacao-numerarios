@@ -1,14 +1,14 @@
 {
   "antecipacao": [
     {
-      "history": "1777077|Implantação de antecipação",
+      "history": "1777078|Implantação de antecipação",
       "creditUnits": [],
       "operation": 0,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177707701",
+      "erpId": "01000177707801",
       "date": "20200728",
-      "localAmount": 1126.4,
-      "feeAmount": 51.60,
+      "localAmount": 1785.6,
+      "feeAmount": 51.65,
       "typeOperation": 0
     }
   ],
@@ -18,10 +18,10 @@
       "creditUnits": [],
       "operation": 20,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177707701",
+      "erpId": "01000177707801",
       "date": "20200728",
-      "localAmount": 1074.80,
-      "feeAmount": 51.60,
+      "localAmount": 1733.95,
+      "feeAmount": 51.65,
       "typeOperation": 2,
       "bankCode": "1",
       "agencyCode ": "4362-1",
@@ -34,10 +34,10 @@
       "creditUnits": [],
       "operation": 1,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177707701",
+      "erpId": "01000177707801",
       "date": "20200728",
-      "localAmount": 515.63,
-      "feeAmount": 51.60,
+      "localAmount": 555.55,
+      "feeAmount": 51.65,
       "typeOperation": 0
     }
   ],
@@ -47,10 +47,10 @@
       "creditUnits": [],
       "operation": 1,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177707701",
+      "erpId": "01000177707801",
       "date": "20200728",
-      "localAmount": 356.99,
-      "feeAmount": 51.60,
+      "localAmount": 333.99,
+      "feeAmount": 51.65,
       "typeOperation": 2
     }
   ],
@@ -60,10 +60,10 @@
       "creditUnits": [],
       "operation": 2,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177707701",
+      "erpId": "01000177707801",
       "date": "20200728",
-      "localAmount": 515.63,
-      "feeAmount": 51.60,
+      "localAmount": 555.55,
+      "feeAmount": 51.65,
       "typeOperation": 0
     }
   ]
