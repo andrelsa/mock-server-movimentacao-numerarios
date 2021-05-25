@@ -5,9 +5,9 @@
       "creditUnits": [],
       "operation": 0,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177713401",
+      "erpId": "01000177945501",
       "date": "20200728",
-      "localAmount": 60.48,
+      "localAmount": 897.25,
       "feeAmount": 15.65,
       "typeOperation": 0
     }
@@ -18,10 +18,10 @@
       "creditUnits": [],
       "operation": 20,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177713401",
+      "erpId": "01000177945501",
       "date": "20200728",
-      "localAmount": 44.83,
-      "feeAmount": 15.65,
+      "localAmount": 897.25,
+      "feeAmount": 0,
       "typeOperation": 2,
       "bankCode": "1",
       "agencyCode ": "4362-1",
@@ -41,17 +41,17 @@
       "typeOperation": 0
     }
   ],
-  "baixa-parcial-2": [
+  "coobrigacao": [
     {
-      "history": "Operação 2-Estorno da Baixa TOTAL",
+      "history": "Coobrigação - Operação 3-Coobrigação",
       "creditUnits": [],
-      "operation": 1,
+      "operation": 3,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177713401",
+      "erpId": "01000177941101",
       "date": "20200728",
-      "localAmount": 333.99,
-      "feeAmount": 51.65,
-      "typeOperation": 2
+      "localAmount": 958.33,
+      "feeAmount": 22.08,
+      "typeOperation": 0
     }
   ],
   "estorno-baixa-parcial-1": [
@@ -60,9 +60,9 @@
       "creditUnits": [],
       "operation": 2,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177713401",
+      "erpId": "01000177945501",
       "date": "20200728",
-      "localAmount": 25.55,
+      "localAmount": 897.25,
       "feeAmount": 15.65,
       "typeOperation": 0
     }
